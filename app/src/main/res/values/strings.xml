@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dejos testing</string>
+    <string name="channel_name">DejosNotif</string>
+    <string name="channel_description">Something beautiful</string>
+</resources>
